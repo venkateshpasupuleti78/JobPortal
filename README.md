@@ -1,6 +1,6 @@
 #  Job Portal - Django Based Web Application
 
-A feature-rich Job Portal built using Django, JavaScript, HTML, and CSS. This platform connects job seekers and employers through a seamless interface designed for real-world hiring processes.
+A feature-rich Job Portal built using Python Django, JavaScript, HTML, and CSS. This platform connects job seekers and employers through a seamless interface designed for real-world hiring processes.
 
 ## 🚀 Features
 
